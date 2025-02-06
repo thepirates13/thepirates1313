@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+<name>[COLOR green]===[/COLOR] [COLOR blue]Séries Categorias.[COLOR green]===[/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
+<fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/tv.xml</externallink>
+</channel>
+  
   
 <channel>
-<name>[COLOR yellow]===[/COLOR] [COLOR blue]Filmes Categorias.[COLOR yellow]===[/COLOR]</name>
+<name>[COLOR yellow]===[/COLOR] [COLOR yellow]Filmes Categorias.[COLOR bçue]===[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
@@ -11,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[COLOR green]===[/COLOR] [COLOR blue]Séries Categorias.[COLOR green]===[/COLOR]</name>
+<name>[COLOR blue]===[/COLOR] [COLOR blue]Séries Categorias.[COLOR yellow]===[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
