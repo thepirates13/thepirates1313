@@ -36,22 +36,6 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]===[/COLOR] [COLOR yellow]Tv Wolf08022025.[COLOR blue]===[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/tvlistawolf09022025.xml</externallink>
-</channel>
-    
-<channel>
-<name>[COLOR green]===[/COLOR] [COLOR blue]Tv 08022025 Categorias.[COLOR yellow]===[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/tv08022025.xml</externallink>
-</channel>
-
-<channel>
 <name>[COLOR yellow]===[/COLOR] [COLOR yellow]PlutoTv.[COLOR blue]===[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
@@ -73,14 +57,6 @@
 <fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/series.xml</externallink>
-</channel>
-
-<channel>
-<name>[COLOR orange]===[/COLOR] [COLOR red]Filmes Categorias +18.[COLOR blue]===[/COLOR]</name>
-<thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/adultosplayfacil.xml</externallink>
 </channel>
 
     
