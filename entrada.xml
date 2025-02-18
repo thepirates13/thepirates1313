@@ -66,7 +66,7 @@
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/series.xml</externallink>
 </channel>
-https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/filmestestelistanando.xml
+
 <channel>
 <name>[COLOR yellow]===[/COLOR] [COLOR yellow]FilmesListaNando.[COLOR blue]===[/COLOR]</name>
 <thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
@@ -74,6 +74,15 @@ https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/fi
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/filmestestelistanando.xml</externallink>
 </channel>
-    
+
+<channel>
+<name>[COLOR red]===[/COLOR] [COLOR blue]Adultos+18/Teste.[COLOR red]===[/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_202502/Fanart.jpg</thumbnail>
+<fanart>https://archive.org/download/fanart_202502/Fanart.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao ADDON THE PIRATES 13 [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/thepirates13/thepirates1313/refs/heads/main/adultos%2B18.xml</externallink>
+</channel>
+
+
     
 </channels>
